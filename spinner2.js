@@ -13,3 +13,6 @@ const spinner = (start, inc) => {
 };
 
 spinner(100, 200);
+spinner(900, 200);
+spinner(1700, 200);
+spinner(2500, 200);
